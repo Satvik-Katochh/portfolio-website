@@ -12,14 +12,15 @@ export default async function Project() {
     <main className="max-w-7xl mx-auto md:px-16 px-6">
       <section className="max-w-2xl mb-16">
         <h1 className="text-3xl font-bold tracking-tight sm:text-5xl mb-6 lg:leading-[3.7rem] leading-tight">
-          Featured projects I&apos;ve built over the years
+          Featured Projects, I&apos;ve crafted & contributed to
         </h1>
         <p className="text-base text-zinc-400 leading-relaxed">
-          I&apos;ve worked on tons of little projects over the years but these
-          are the ones that I&apos;m most proud of. Many of them are
-          open-source, so if you see something that piques your interest, check
-          out the code and contribute if you have ideas for how it can be
-          improved.
+          Welcome to my corner of digital wizardry! Over the years, I&apos;ve
+          had the pleasure of building and contributing to some amazing projects
+          for the companies I've worked with. Whether crafting from scratch or
+          enhancing existing marvels, each project holds a special place in my
+          heart (and portfolio). Explore these gems below and if any catch your
+          eye, feel free to reach out for a nerdy chat!
         </p>
       </section>
 
